@@ -6,6 +6,7 @@
 .middle > * {
 	vertical-align: middle;
 }
+
 .middle h2 {
 	display: inline-block;
 }
